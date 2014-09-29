@@ -1,5 +1,4 @@
 340-Scenarios
-=============
 -The Beginner
 		Shirley is going to Cancun for spring break and decided to start whipping her body into shape. The trouble is she doesn’t know where to start, and she feels that gyms are intimidating. She downloaded XXX because she heard that it was a great starter tool but also completely customizable. As she progressed through the workouts over time, she was able to intensify her sessions and add weight training. By the time spring break came around, she was a workout pro and was ready to tackle the beach in her new, smaller bikinis. 
 
